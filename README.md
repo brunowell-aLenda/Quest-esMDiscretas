@@ -1,2 +1,2 @@
-# Quest-esMDiscretas
+# QuestõesMDiscretas
 Questões de Matemática Discreta Aplicada
